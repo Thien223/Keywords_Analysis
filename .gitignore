@@ -1,0 +1,12 @@
+apex/
+venv/
+.idea/
+.git/
+*/__pycache__/
+.ipynb_checkpoints/
+backup/
+dataset/
+logs/
+outdir/
+waveglow/checkpoints/
+waveglow/wavs/
